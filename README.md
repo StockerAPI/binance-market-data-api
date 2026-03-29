@@ -46,7 +46,7 @@ This repository is designed to make Binance market API coverage easier to discov
 
 ## Links
 
-- Website: https://kun.pro/markets/binance-market-data-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
